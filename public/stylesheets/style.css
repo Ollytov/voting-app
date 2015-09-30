@@ -1,0 +1,92 @@
+/********************************
+********Main Body Style**********
+*********************************/
+body {
+  font: 14px Georgia, Helvetica, Arial, sans-serif;
+  color: #0E0E2F;
+  background-color: #DDE2FC;
+}
+
+a {
+  color: #0E0E2F;
+}
+
+/********************************
+**********Navbar Styles**********
+*********************************/
+.nav-border {
+  border: 3px solid #0E0E2F;
+  background-color: #F9FAE5;
+}
+
+/********************************
+********Home Page Styles*********
+*********************************/
+.jumbotron {
+  background-color: #F9FAE5;
+  border: 3px solid #0E0E2F;
+  padding: 40px;
+}
+
+.btn-success {
+  background-color: #0E0E2F;
+}
+
+.btn-success:hover {
+  background-color: #B9B5FC;
+}
+
+.info-box {
+  height: 300px;
+  background-color: #F9FAE5;
+  border: 3px solid #0E0E2F;
+  border-radius: 10px;
+  margin: 5px -10px 5px -10px;
+}
+
+
+.icon i {
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+.desc p {
+  font-size: 25px;
+  margin-top: 30px;
+  padding: 5px;
+}
+
+/********************************
+*****Log In/Create Styles********
+*********************************/
+
+.login-form {
+  border: 3px solid #0E0E2F;
+  padding: 40px;
+  background-color: #F9FAE5;
+}
+
+.login-desc {
+  margin: -20px 0 20px 0;
+}
+
+.create {
+  margin: 15px 0 -15px 0;
+}
+
+.err {
+  margin-top: 10px;
+}
+
+/********************************
+*****Main Poll View Style********
+*********************************/
+.poll-desc-box {
+  height: 175px;
+  border: 3px solid #0E0E2F;
+  margin-bottom: 40px;
+}
+.main-body {
+  height: 500px;
+  border: 3px solid #0E0E2F;
+}
